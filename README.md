@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sandeepsv8055/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sandeepsv8055/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sandeepsv8055/LeetCode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/sandeepsv8055/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sandeepsv8055/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sandeepsv8055/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sandeepsv8055/LeetCode/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -35,5 +37,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sandeepsv8055/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sandeepsv8055/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sandeepsv8055/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
