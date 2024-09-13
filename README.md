@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sandeepsv8055/LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/sandeepsv8055/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sandeepsv8055/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/sandeepsv8055/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sandeepsv8055/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/sandeepsv8055/LeetCode/tree/master/0066-plus-one) |
