@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sandeepsv8055/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/sandeepsv8055/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sandeepsv8055/LeetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sandeepsv8055/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/sandeepsv8055/LeetCode/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/sandeepsv8055/LeetCode/tree/master/0898-transpose-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sandeepsv8055/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
