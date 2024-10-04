@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sandeepsv8055/LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/sandeepsv8055/LeetCode/tree/master/0242-valid-anagram) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sandeepsv8055/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sandeepsv8055/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sandeepsv8055/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sandeepsv8055/LeetCode/tree/master/0242-valid-anagram) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sandeepsv8055/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Trie
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sandeepsv8055/LeetCode/tree/master/0189-rotate-array) |
 | [0898-transpose-matrix](https://github.com/sandeepsv8055/LeetCode/tree/master/0898-transpose-matrix) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sandeepsv8055/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sandeepsv8055/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sandeepsv8055/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sandeepsv8055/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sandeepsv8055/LeetCode/tree/master/0189-rotate-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sandeepsv8055/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
 | ------- |
