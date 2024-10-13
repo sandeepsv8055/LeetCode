@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sandeepsv8055/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sandeepsv8055/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sandeepsv8055/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/sandeepsv8055/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sandeepsv8055/LeetCode/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/sandeepsv8055/LeetCode/tree/master/0561-array-partition) |
 | [0898-transpose-matrix](https://github.com/sandeepsv8055/LeetCode/tree/master/0898-transpose-matrix) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/sandeepsv8055/LeetCode/tree/master/0561-array-partition) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sandeepsv8055/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
