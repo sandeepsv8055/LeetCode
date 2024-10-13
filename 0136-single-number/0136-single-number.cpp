@@ -20,43 +20,52 @@
     //     else return  nums[i];
     // }
     // return nums[0];
-    
-    //approach 3 sort
-    // sort(nums.begin(),nums.end());
-    // int cnt=0;
-    // for(int i=0;i<nums.size();i++){
-    //     if(nums[i]==nums[i+1]) cnt++;
-    //     if(cnt ==1)
-    // }
-
-
-//}
+      //}
 //};
 
 
-
-
+    //approach 3 sort
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        // Brute force approach
-        for (int i = 0; i < nums.size(); i++) {
-            int count = 0; // Reset count for each new element
-            
-            // Check how many times nums[i] appears in the array
-            for (int j = 0; j < nums.size(); j++) {
-                if (nums[i] == nums[j]) {
-                    count++;
-                }
-            }
-            
-            // If count is 1, we found the single number
-            if (count == 1) {
+        sort(nums.begin(), nums.end());  // Step 1: Sort the array
+
+        // Step 2: Traverse the array in steps of 2
+        for (int i = 0; i < nums.size(); i += 2) {
+            // If the current element doesn't have a matching next element, it's the single number
+            if (i == nums.size() - 1 || nums[i] != nums[i + 1]) {
                 return nums[i];
             }
         }
-
-        // Return -1 if no single number is found (just for safety, should never reach here)
-        return -1;
+        
+        return -1; // Just for safety, though we expect a valid result always
     }
 };
+
+
+
+
+
+
+
+// class Solution {
+// public:
+//     int singleNumber(vector<int>& nums) {
+//         // Brute force approach
+//         for (int i = 0; i < nums.size(); i++) {
+//             int count = 0; // Reset count for each new element
+            
+//             // Check how many times nums[i] appears in the array
+//             for (int j = 0; j < nums.size(); j++) {
+//                 if (nums[i] == nums[j]) {
+//                     count++;
+//                 }
+//             }
+            
+//             // If count is 1, we found the single number
+//             if (count == 1) {
+//                 return nums[i];
+//             }
+//         }
+//     }
+// };
