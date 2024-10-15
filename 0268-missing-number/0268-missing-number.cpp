@@ -30,14 +30,28 @@
 //     }
 // };
 
+//aproach 3 using set
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        int n = nums.size();
-        int x = n; // to inclde last index;
-        for(int i=0;i<n;i++){
-            x = x^i^nums[i];
+        unordered_set<int> numset(nums.begin(),nums.end());
+        for(int i=0;i<=nums.size();i++){
+            if(numset.find(i) == numset.end()){
+                return i;
+            }
         }
-        return x;
+        return -1;
     }
 };
+
+// class Solution {
+// public:
+//     int missingNumber(vector<int>& nums) {
+//         int n = nums.size();
+//         int x = n; // to inclde last index;
+//         for(int i=0;i<n;i++){
+//             x = x^i^nums[i];
+//         }
+//         return x;
+//     }
+// };
