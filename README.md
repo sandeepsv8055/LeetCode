@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/sandeepsv8055/LeetCode/tree/master/0561-array-partition) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sandeepsv8055/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sandeepsv8055/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sandeepsv8055/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Trie
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sandeepsv8055/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sandeepsv8055/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sandeepsv8055/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sandeepsv8055/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sandeepsv8055/LeetCode/tree/master/0283-move-zeroes) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sandeepsv8055/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sandeepsv8055/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sandeepsv8055/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
