@@ -13,16 +13,17 @@ public:
     ListNode* middleNode(ListNode* head) {
         int length = 0;
         ListNode* temp = head;
-        while(temp!=nullptr){
+        while(temp!=nullptr){  //O(n)
             length++;
             temp = temp -> next;
         }
         int middle = length/2;
-        temp = head;
+        temp = head;  //reset temp back to the beginning ...
         for(int i=0;i<middle;i++){
             temp = temp->next;
         }
         return temp;
-
     }
 };
+
+//two pointer 
