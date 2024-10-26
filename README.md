@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sandeepsv8055/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/sandeepsv8055/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sandeepsv8055/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sandeepsv8055/LeetCode/tree/master/0189-rotate-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sandeepsv8055/LeetCode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/sandeepsv8055/LeetCode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sandeepsv8055/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sandeepsv8055/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sandeepsv8055/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sandeepsv8055/LeetCode/tree/master/0908-middle-of-the-linked-list) |
