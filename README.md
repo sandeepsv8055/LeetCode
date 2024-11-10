@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sandeepsv8055/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sandeepsv8055/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sandeepsv8055/LeetCode/tree/master/0283-move-zeroes) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/sandeepsv8055/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sandeepsv8055/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sandeepsv8055/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sandeepsv8055/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sandeepsv8055/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sandeepsv8055/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sandeepsv8055/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/sandeepsv8055/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sandeepsv8055/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sandeepsv8055/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
