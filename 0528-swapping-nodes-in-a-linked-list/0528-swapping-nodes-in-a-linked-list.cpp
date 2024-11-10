@@ -23,7 +23,7 @@ public:
         }
         ListNode* fast = head;
         int m = len-k+1;
-        for(int i=1;i<=m-1;i++){
+        for(int i=1;i<m;i++){
             fast=fast->next;
         }
         swap(slow->val, fast->val);
