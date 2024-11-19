@@ -32,6 +32,7 @@ public:
 }
 
     ListNode* sortList(ListNode* head) {
+        //base case
         if(head == NULL|| head->next==NULL) return head;
         //slow or fast se left middle of the linked list nikalnge
         ListNode* slow = head;
