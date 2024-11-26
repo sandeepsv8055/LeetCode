@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sandeepsv8055/LeetCode/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/sandeepsv8055/LeetCode/tree/master/0561-array-partition) |
 | [0898-transpose-matrix](https://github.com/sandeepsv8055/LeetCode/tree/master/0898-transpose-matrix) |
+| [0954-maximum-sum-circular-subarray](https://github.com/sandeepsv8055/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sandeepsv8055/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sandeepsv8055/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2870-longest-alternating-subarray](https://github.com/sandeepsv8055/LeetCode/tree/master/2870-longest-alternating-subarray) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sandeepsv8055/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sandeepsv8055/LeetCode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/sandeepsv8055/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/sandeepsv8055/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/sandeepsv8055/LeetCode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sandeepsv8055/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/sandeepsv8055/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/sandeepsv8055/LeetCode/tree/master/0148-sort-list) |
+| [0954-maximum-sum-circular-subarray](https://github.com/sandeepsv8055/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -196,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2870-longest-alternating-subarray](https://github.com/sandeepsv8055/LeetCode/tree/master/2870-longest-alternating-subarray) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/sandeepsv8055/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/sandeepsv8055/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
