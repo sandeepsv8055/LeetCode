@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sandeepsv8055/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sandeepsv8055/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2232-adding-spaces-to-a-string](https://github.com/sandeepsv8055/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepsv8055/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sandeepsv8055/LeetCode/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepsv8055/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-longest-alternating-subarray](https://github.com/sandeepsv8055/LeetCode/tree/master/2870-longest-alternating-subarray) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sandeepsv8055/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3221-find-the-peaks](https://github.com/sandeepsv8055/LeetCode/tree/master/3221-find-the-peaks) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepsv8055/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sandeepsv8055/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sandeepsv8055/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/sandeepsv8055/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepsv8055/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -267,4 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sandeepsv8055/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/sandeepsv8055/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sandeepsv8055/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepsv8055/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepsv8055/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
