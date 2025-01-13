@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/sandeepsv8055/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sandeepsv8055/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepsv8055/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/sandeepsv8055/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/sandeepsv8055/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sandeepsv8055/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sandeepsv8055/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/sandeepsv8055/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/sandeepsv8055/LeetCode/tree/master/0561-array-partition) |
 | [1502-construct-k-palindrome-strings](https://github.com/sandeepsv8055/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sandeepsv8055/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/sandeepsv8055/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
