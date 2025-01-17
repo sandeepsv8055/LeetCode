@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sandeepsv8055/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sandeepsv8055/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sandeepsv8055/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/sandeepsv8055/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2870-longest-alternating-subarray](https://github.com/sandeepsv8055/LeetCode/tree/master/2870-longest-alternating-subarray) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sandeepsv8055/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3221-find-the-peaks](https://github.com/sandeepsv8055/LeetCode/tree/master/3221-find-the-peaks) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/sandeepsv8055/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sandeepsv8055/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sandeepsv8055/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/sandeepsv8055/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
