@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sandeepsv8055/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3221-find-the-peaks](https://github.com/sandeepsv8055/LeetCode/tree/master/3221-find-the-peaks) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepsv8055/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sandeepsv8055/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/sandeepsv8055/LeetCode/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sandeepsv8055/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
