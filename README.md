@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/sandeepsv8055/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sandeepsv8055/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sandeepsv8055/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/sandeepsv8055/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2145-grid-game](https://github.com/sandeepsv8055/LeetCode/tree/master/2145-grid-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/sandeepsv8055/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sandeepsv8055/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
