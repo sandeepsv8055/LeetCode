@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/sandeepsv8055/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sandeepsv8055/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sandeepsv8055/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2434-design-a-number-container-system](https://github.com/sandeepsv8055/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sandeepsv8055/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sandeepsv8055/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sandeepsv8055/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/sandeepsv8055/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/sandeepsv8055/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sandeepsv8055/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2434-design-a-number-container-system](https://github.com/sandeepsv8055/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Merge Sort
 |  |
 | ------- |
@@ -373,4 +375,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/sandeepsv8055/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/sandeepsv8055/LeetCode/tree/master/1558-course-schedule-iv) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/sandeepsv8055/LeetCode/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/sandeepsv8055/LeetCode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
