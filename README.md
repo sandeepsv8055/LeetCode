@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sandeepsv8055/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sandeepsv8055/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2434-design-a-number-container-system](https://github.com/sandeepsv8055/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/sandeepsv8055/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sandeepsv8055/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sandeepsv8055/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sandeepsv8055/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/sandeepsv8055/LeetCode/tree/master/2145-grid-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/sandeepsv8055/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sandeepsv8055/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2448-count-number-of-bad-pairs](https://github.com/sandeepsv8055/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sandeepsv8055/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sandeepsv8055/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sandeepsv8055/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sandeepsv8055/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sandeepsv8055/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sandeepsv8055/LeetCode/tree/master/1013-fibonacci-number) |
+| [2448-count-number-of-bad-pairs](https://github.com/sandeepsv8055/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/sandeepsv8055/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sandeepsv8055/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/sandeepsv8055/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2448-count-number-of-bad-pairs](https://github.com/sandeepsv8055/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sandeepsv8055/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
