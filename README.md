@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/sandeepsv8055/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/sandeepsv8055/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeepsv8055/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sandeepsv8055/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sandeepsv8055/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sandeepsv8055/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-string-matching-in-an-array](https://github.com/sandeepsv8055/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sandeepsv8055/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sandeepsv8055/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sandeepsv8055/LeetCode/tree/master/1013-fibonacci-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/sandeepsv8055/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/sandeepsv8055/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Two Pointers
 |  |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/sandeepsv8055/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sandeepsv8055/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sandeepsv8055/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/sandeepsv8055/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -389,9 +392,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/sandeepsv8055/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/sandeepsv8055/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/sandeepsv8055/LeetCode/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/sandeepsv8055/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
