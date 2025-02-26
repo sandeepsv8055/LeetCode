@@ -6,10 +6,10 @@ public:
 
     for (int i = 0; i < s.size(); i++) {
         if (hash.find(s[i]) != hash.end() && hash[s[i]] >= start) {
-            start = hash[s[i]] + 1; // Move start to the right of the repeated character
+            start = hash[s[i]] + 1; 
         }
-        hash[s[i]] = i; // Update the character's position
-        maxlen = max(maxlen, i - start + 1); // Calculate the maximum length
+        hash[s[i]] = i; 
+        maxlen = max(maxlen, i - start + 1); 
     }
 
     return maxlen;
