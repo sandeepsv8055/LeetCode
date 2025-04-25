@@ -301,10 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sandeepsv8055/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sandeepsv8055/LeetCode/tree/master/0563-binary-tree-tilt) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sandeepsv8055/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sandeepsv8055/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0820-find-eventual-safe-states](https://github.com/sandeepsv8055/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/sandeepsv8055/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sandeepsv8055/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sandeepsv8055/LeetCode/tree/master/0563-binary-tree-tilt) |
 ## Divide and Conquer
 |  |
