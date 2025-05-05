@@ -9,32 +9,36 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution
-{
+class Solution {
 public:
-vector<vector<int>>levelOrder(TreeNode *root)
-{
-  vector<vector<int>>ans;
-  if(root==NULL) return ans;
-  queue<TreeNode*>q;
-  q.push(root);
-  while(!q.empty())
-  {
-    int size=q.size();
-    vector<int>level;
-    for(int i=0;i<size;i++)
-     
-    {
-      TreeNode *node=q.front(); // Take the front element Out
-      q.pop(); // Popping Out same Node
-      if(node->left !=NULL) q.push(node->left);//if exsit push in Queue
-      if(node->right !=NULL) q.push(node->right);// If Exist Right Push Into Queue
-      level.push_back(node->val); // Stroing same noe in the Vector
-    }
-    ans.push_back(level);
 
-  }
-  return ans;
+int levels(TreeNode* root){
+    if(root==NULL) return 0;
+    return 1+max(levels(root->left), levels(root->right));
+}
+void nthLevel(TreeNode* root, int curr, int level, vector<int>&v){
+    if(root ==NULL) return;
+    if(curr==level) {
+        v.push_back(root->val);
+        return;
+    }
+    nthLevel(root->left,curr+1, level,v);
+    nthLevel(root->right,curr+1,level,v);
+}
+void lOrder(TreeNode* root,vector<vector<int>> &ans){
+    int n = levels(root);
+    for(int i =1;i<=n;i++){
+        vector<int>v;
+        nthLevel(root,1,i,v);
+        ans.push_back(v);
+        
+    }
 }
 
+    vector<vector<int>> levelOrder(TreeNode* root) {
+        vector<vector<int>> ans;
+        lOrder(root,ans);
+        return ans;
+
+    }
 };
