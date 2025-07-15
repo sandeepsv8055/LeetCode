@@ -13,7 +13,8 @@ public:
         int cnt=0;
         for (auto it = mp.rbegin(); it != mp.rend(); ++it) {
             if(cnt==1){
-                return (*it).first;
+               // return (*it).first;
+               return it->first;
             }
              cnt++;
         }
