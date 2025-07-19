@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/sandeepsv8055/LeetCode/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/sandeepsv8055/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/sandeepsv8055/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/sandeepsv8055/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1502-construct-k-palindrome-strings](https://github.com/sandeepsv8055/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/sandeepsv8055/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sandeepsv8055/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sandeepsv8055/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/sandeepsv8055/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sandeepsv8055/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Array
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-minimum-number-of-refueling-stops](https://github.com/sandeepsv8055/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0952-word-subsets](https://github.com/sandeepsv8055/LeetCode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sandeepsv8055/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/sandeepsv8055/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/sandeepsv8055/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/sandeepsv8055/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeepsv8055/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sandeepsv8055/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sandeepsv8055/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0820-find-eventual-safe-states](https://github.com/sandeepsv8055/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/sandeepsv8055/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/sandeepsv8055/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/sandeepsv8055/LeetCode/tree/master/1558-course-schedule-iv) |
 ## Binary Tree
