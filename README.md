@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/sandeepsv8055/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sandeepsv8055/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/sandeepsv8055/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0838-design-linked-list](https://github.com/sandeepsv8055/LeetCode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sandeepsv8055/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sandeepsv8055/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0838-design-linked-list](https://github.com/sandeepsv8055/LeetCode/tree/master/0838-design-linked-list) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sandeepsv8055/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/sandeepsv8055/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
