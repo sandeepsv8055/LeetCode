@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandeepsv8055/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sandeepsv8055/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/sandeepsv8055/LeetCode/tree/master/0155-min-stack) |
 | [1078-remove-outermost-parentheses](https://github.com/sandeepsv8055/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandeepsv8055/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sandeepsv8055/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sandeepsv8055/LeetCode/tree/master/0155-min-stack) |
 | [0838-design-linked-list](https://github.com/sandeepsv8055/LeetCode/tree/master/0838-design-linked-list) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sandeepsv8055/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/sandeepsv8055/LeetCode/tree/master/2434-design-a-number-container-system) |
