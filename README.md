@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sandeepsv8055/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sandeepsv8055/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sandeepsv8055/LeetCode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/sandeepsv8055/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/sandeepsv8055/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0561-array-partition](https://github.com/sandeepsv8055/LeetCode/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/sandeepsv8055/LeetCode/tree/master/0739-daily-temperatures) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sandeepsv8055/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sandeepsv8055/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/sandeepsv8055/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/sandeepsv8055/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/sandeepsv8055/LeetCode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sandeepsv8055/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/sandeepsv8055/LeetCode/tree/master/1013-fibonacci-number) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sandeepsv8055/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/sandeepsv8055/LeetCode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/sandeepsv8055/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandeepsv8055/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sandeepsv8055/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sandeepsv8055/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
