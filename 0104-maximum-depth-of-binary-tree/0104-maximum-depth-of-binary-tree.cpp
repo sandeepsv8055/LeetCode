@@ -9,43 +9,37 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-// class Solution {
-// public:
-//     int maxDepth(TreeNode* root) {
-//         //using recursion
-//         if(root == NULL) return 0;
-//         int leftHeight = maxDepth(root->left);
-//         int rightHeight = maxDepth(root->right);
-
-//         return 1+max(leftHeight,rightHeight);
-        
-//     }
-// };
-
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
-       if(root == NULL) return 0;
-    
-    queue<TreeNode*> q;
-    q.push(root);
-    int depth = 0;
+        //using recursion
+        if(root == NULL) return 0;
+        int leftHeight = maxDepth(root->left);
+        int rightHeight = maxDepth(root->right);
 
-    while(!q.empty()) {
-        int size = q.size();  // number of nodes at current level
-        
-        for(int i = 0; i < size; i++) {
-            TreeNode* node = q.front();
-            q.pop();
-            
-            if(node->left) q.push(node->left);
-            if(node->right) q.push(node->right);
-        }
-        
-        depth++; // completed one level
-    }
-
-    return depth; 
+        return 1+max(leftHeight,rightHeight);
         
     }
 };
+
+// class Solution {
+// public:
+//     int maxDepth(TreeNode* root) {
+//        if(root==NULL) return 0;
+//        queue<TreeNode*>q;
+//        q.push(root);
+//        int depth =0;
+//        while(!q.empty()){
+//          int size = q.size();
+//          for(int i=0;i<size;i++){
+//             TreeNode* node = q.front();
+//             q.pop();
+
+//             if(node->left) q.push(node->left);
+//             if(node->right) q.push(node->right);
+//          }
+//          depth++;
+//        }
+//         return depth;
+//     }
+// };
