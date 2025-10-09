@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sandeepsv8055/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3639-zero-array-transformation-i](https://github.com/sandeepsv8055/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sandeepsv8055/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sandeepsv8055/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sandeepsv8055/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sandeepsv8055/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3790-fruits-into-baskets-ii](https://github.com/sandeepsv8055/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sandeepsv8055/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Memoization
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sandeepsv8055/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/sandeepsv8055/LeetCode/tree/master/2145-grid-game) |
 | [3639-zero-array-transformation-i](https://github.com/sandeepsv8055/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sandeepsv8055/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Rolling Hash
 |  |
 | ------- |
