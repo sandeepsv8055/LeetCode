@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/sandeepsv8055/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sandeepsv8055/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/sandeepsv8055/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/sandeepsv8055/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3639-zero-array-transformation-i](https://github.com/sandeepsv8055/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sandeepsv8055/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sandeepsv8055/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
