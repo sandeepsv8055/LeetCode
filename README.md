@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/sandeepsv8055/LeetCode/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sandeepsv8055/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sandeepsv8055/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1925-count-square-sum-triples](https://github.com/sandeepsv8055/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2448-count-number-of-bad-pairs](https://github.com/sandeepsv8055/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/sandeepsv8055/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sandeepsv8055/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/sandeepsv8055/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2870-longest-alternating-subarray](https://github.com/sandeepsv8055/LeetCode/tree/master/2870-longest-alternating-subarray) |
 | [3221-find-the-peaks](https://github.com/sandeepsv8055/LeetCode/tree/master/3221-find-the-peaks) |
 ## Queue
